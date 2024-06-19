@@ -1,0 +1,60 @@
+.services .container .content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+.services .container .content .col {
+    width: 350px;
+    height: 360px;
+    flex-grow: 1;
+    background-color: #243945;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: column;
+    gap: 10px;
+    padding: 15px;
+    border-radius: 15px;
+    text-align: center;
+    transition: .4s;
+}
+.services .container .content .col:hover {
+    border: 2px solid #0ef;
+}
+.services .container .content .col svg {
+    font-size: 55px;
+    display: inline-block;
+    color: #0ef;
+    font-weight: bold;
+    padding-top: 10px;
+}
+.services .container .content .col h2 {
+    font-size: 35px;
+    font-weight: bolder;
+    padding-top: 10px;
+}
+.services .container .content .col p {
+    font-size: 18px;
+    line-height: 2;
+    text-transform: capitalize;
+}
+.services .container .content .col a{
+    display: inline-block;
+    background-color: #0ef;
+    font-size: 20px;
+    font-weight: bold;
+    text-transform: capitalize;
+    border-radius: 20px;
+    cursor: pointer;
+    padding: 15px;
+    color: black;
+    transition: .3s;
+    box-shadow: 0 0 10px #0ef;
+    width: 50%;
+}
+.services .container .content .col a:hover {
+    background-color: #001a25;
+    color: #FFF;
+}

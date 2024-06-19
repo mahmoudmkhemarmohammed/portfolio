@@ -1,0 +1,119 @@
+[
+    {
+        "id" : 0,
+        "title" : "Your Quran",
+        "description" : "موقع قرأنك تم انشائه بواسطه المهندس محمود مخيمر ويعد من اقوي المواقع لحفظ القرأن الكريم استماعا لانه يحتوي علي العديد من المميزات منها انه يحتوي علي اشهر القراء في الوطن العربي بروايات مختلفه لكل قارئ وكذالك يحتوي علي الإذاعه لقناه مكه المكرمه وقناه السنه النبويه ويحتوي علي التفسير للقرأن والرقيه الشرعيه ومميزات اخري يمكنك رؤيتها من خلال تصفحك للموقع",
+        "link" : "https://mahmoudmkhemarmohammed.github.io/Your-Quran",
+        "language": "html-Css-js-api",
+        "video": "./Videos/Your-Quran.mp4",
+        "img" : "./imges/Your Quran.png"
+    },
+    {
+        "id" : 1,
+        "title" : "Hoda-Movie",
+        "description": "The Houda Movie website was created by engineer Mahmoud Mkhemar. It is a website for the most popular and trendy movies and series. It also contains Arabic movies, Indian movies, and many horror, thriller, action, comedies, romantic movies, anime movies, and many movies. You can see the features that the site offers by browsing it.",
+        "link" : "https://mahmoudmkhemarmohammed.github.io/Hoda-Movie",
+        "language": "html-Css-js-api",
+        "video": "./Videos/Hoda-Movie.mp4",
+        "img" : "./imges/Hoda-Movie.png"
+    },
+    {
+        "id" : 2,
+        "title" : "Villa",
+        "description": "Villa website is a real estate website that contains the most luxurious and elegant villas, palaces and castles at a reasonable price and with a wonderful design and in the most luxurious and elegant places for you as a buyer.",
+        "link" : "https://mahmoudmkhemarmohammed.github.io/villa",
+        "language": "html-Css-js",
+        "video": "./Videos/villa.mp4",
+        "img" : "./imges/villa.png"
+    },
+    {
+        "id" : 3,
+        "title" : "Coda-Game",
+        "description": "The Coda Game website is one of the best sites for buying games at a cheap price. It also contains some free games and was developed by engineer Mahmoud Mkhemar.",
+        "link" : "https://mahmoudmkhemarmohammed.github.io/Coda-Game",
+        "language": "html-Css-js",
+        "video": "./Videos/Coda-Game.mp4",
+        "img" : "./imges/Coda-Game.png"
+    },
+    {
+        "id" : 4,
+        "title":"Iphone Landing Page",
+        "description": "The Coda Game website is one of the best sites for buying games at a cheap price. It also contains some free games and was developed by engineer Mahmoud Mkhemar.",
+        "link" : "https://mahmoudmkhemarmohammed.github.io/Iphone-Landing-Page",
+        "language": "html-Css-js",
+        "video": "./Videos/iphone landing page.mp4",
+        "img" : "./imges/Iphone.png"
+    },
+    {
+        "id" : 5,
+        "title" : "Coda-Editor",
+        "description": "The Coda Editor application is a simple application that edits images by adding some effects to improve the image quality",
+        "link" : "https://mahmoudmkhemarmohammed.github.io/Coda_Editor",
+        "language": "html-Css-js",
+        "video": "./Videos/Coda-Editor.mp4",
+        "img" : "./imges/Coda-Editor.png"
+    },
+    {
+        "id" : 6,
+        "title" : "Dashboard",
+        "description": "A simple control panel that displays a fixed set of products",
+        "link" : "https://mahmoudmkhemarmohammed.github.io/dashboard",
+        "language": "html-Css",
+        "video": "./Videos/Dashboard.mp4",
+        "img" : "./imges/dashboard.png"
+    },
+    {
+        "id" : 7,
+        "title" : "Nav-Name",
+        "description": "It is a simple navbar, but it displays names in a wonderful way and can be used on large websites",
+        "link" : "https://mahmoudmkhemarmohammed.github.io/nav-name",
+        "language": "html-Css",
+        "video": "./Videos/Nav-Name.mp4",
+        "img" : "./imges/ul-nav.png"
+    },
+    {
+        "id" : 8,
+        "title" : "Zakah",
+        "description": "The Zakat website is an application that calculates the Zakat percentage of money in a correct way, whatever the amount the user enters.",
+        "link" : "https://mahmoudmkhemarmohammed.github.io/Zakat-on-Money",
+        "language": "html-Css-js",
+        "video": "./Videos/Zakat-On-Money.mp4",
+        "img" : "./imges/zakah.png"
+    },
+    {
+        "id" : 9,
+        "title" : "Currency-Converter",
+        "description": "The Currency-Converter-2 website is a website for converting currencies into different currencies and gives the price of the dollar, the euro, the British pound, and the Saudi riyal in Egyptian after converting the amount you requested to know.",
+        "link" : "https://mahmoudmkhemarmohammed.github.io/Currency-Converter-2",
+        "language": "html-Css-js-api",
+        "video": "./Videos/Currency-Converter-2.mp4",
+        "img" : "./imges/currency-converter.png"
+    },
+    {
+        "id" : 10,
+        "title" : "Gallery-App",
+        "description": "The Gallery App website is a gallery for displaying images in a distinctive way and supports distinctive features, including Dark Mode",
+        "link" : "https://mahmoudmkhemarmohammed.github.io/gallery-app",
+        "language": "html-Css-js",
+        "video": "./Videos/Gallery-App.mp4",
+        "img" : "./imges/img-slider.png"
+    },
+    {
+        "id" : 11,
+        "title" : "Get-Repoes",
+        "description": "Get-reopes fetches users' repositories on GitHub and displays the number of stars by name.",
+        "link" : "https://mahmoudmkhemarmohammed.github.io/get-repoes",
+        "language": "html-Css-js-api",
+        "video": "./Videos/Get-Repoes.mp4",
+        "img" : "./imges/get-reapoes.png"
+    },
+    {
+        "id" : 12,
+        "title" : "Portfolio",
+        "description": "Portfolio is a site to display all my work, information about me, the projects I have created, and how to communicate with me. You can also browse my recent works.",
+        "link" : "https://mahmoudmkhemarmohammed.github.io/portfolio",
+        "language": "react",
+        "video": "./Videos/portfolio.mp4",
+        "img" : "./imges/portfolio.jpg"
+    }
+]

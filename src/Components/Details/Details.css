@@ -1,0 +1,76 @@
+.details .container {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 10px;
+    padding-top: 100px;
+    min-height: 100vh;
+}
+.details .container .video,
+.details .container .text {
+    width: 49%;
+    height: fit-content;
+    flex-grow: 1;
+}
+.details .container .video video {
+    width: 100%;
+    border-radius: 10px;
+}
+.details .container .text {
+    padding: 10px;
+}
+.details .container .text h2 {
+    font-size: 40px;
+    font-weight: bolder;
+    text-transform: capitalize;
+    color: #0ef;
+}
+.details .container .text h3 {
+    margin-top: 10px;
+    font-size: 35px;
+    font-weight: bold;
+    text-transform: capitalize;
+    color: #FFF;
+}
+.details .container .text h3 span {
+    color: #59ff00;
+}
+.details .container .text p,
+.details .container .description p {
+    text-transform: capitalize;
+    line-height: 2;
+    color: #ff710c;
+    font-size: 22px;
+    margin-top: 10px;
+}
+.details .container .text p span,
+.details .container .description p span {
+    color: #FFF;
+    font-size: 19px;
+}
+.details .container .text a {
+    font-size: 25px;
+    font-weight: bold;
+    text-transform: capitalize;
+    text-align: center;
+    text-decoration: none;
+    width: 100%;
+    display: inline-block;
+    background-color: #0ef;
+    color: black;
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+.details .container .description {
+    width: 100%;
+    padding: 15px;
+    border-radius: 10px;
+    height: fit-content;
+    background-color: #243945;
+}
+@media (max-width: 424px) {
+    .details .container .text h3 {
+        font-size: 27px;
+    }
+}
