@@ -38,7 +38,7 @@ function App() {
             </>
           }
         />
-        <Route path="details/:projectId" element={<Details />} />
+        <Route path="/details/:projectId" element={<Details />} />
       </Routes>
       <Footer />
       <button
