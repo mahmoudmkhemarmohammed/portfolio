@@ -33,6 +33,9 @@ function Portfolio() {
   };
   useEffect(() => {
     handlerFilter();
+    return () => {
+      window.scroll({ top: 0 });
+    };
   }, []);
   return (
     <div id="portfolio" className="portfolio">

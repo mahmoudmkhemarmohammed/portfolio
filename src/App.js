@@ -27,7 +27,7 @@ function App() {
       <Header />
       <Routes>
         <Route
-          path="/portfolio"
+          path="/"
           element={
             <>
               <Home />
